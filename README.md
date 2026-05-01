@@ -2,7 +2,7 @@
 
 A command-line application implementing a cryptographically secure platform for sharing sensitive patient and research data across institutions. Built with Python and `pycryptodome`.
 
-# KEYS ARE EXPOSED PURPOSEFULLY FOR DEMO PURPOSES, IN REALITY THEY WOULD BE STORED IN A HSM  
+# Keys are exposed purposefully for demo purposes. In reality, they would be stored in HSMs
 
 ---
 
