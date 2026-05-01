@@ -1,5 +1,4 @@
 # Secure Clinical Research Collaboration Platform
-**WM9PC-15 Applied Cryptography — Coursework 2025/26**
 
 A command-line application implementing a cryptographically secure platform for sharing sensitive patient and research data across institutions. Built with Python and `pycryptodome`.
 
