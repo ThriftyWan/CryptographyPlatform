@@ -1,0 +1,20 @@
+{
+  "file_id": "a9ed240ff6d98ad9",
+  "filename": "Test",
+  "uploader": "researcher1",
+  "uploader_role": "researcher",
+  "timestamp": "2026-04-27T07:30:10Z",
+  "allowed_users": [
+    "researcher1"
+  ],
+  "iv": "3Ww907JdPN9kxljc0DEOsw==",
+  "ciphertext": "WOBovwRz286+qFSqdXBJwA==",
+  "hmac": "91a855d8ca38502ab223199083d135417bc1ecc146ca5948f90114b4de2d2081",
+  "wrapped_keys": {
+    "researcher1": "DffON3sNtTSdIYtQYxWROq16LScZbs/j8I3fjFrtiL/7o1gmd0lRSpzfVS7wrqvBgWMaPCPY9sjq3IrgHJt/n0irL1/F8xjitnysOQv2lLfedx8I5MJRsOw8oYGlV0IiUTX5hy+vCwqEVs/oLvJhBOUOstrqXgjRfHj/sBJVHSHXBJsZbQQaI2Hv0muIK/ptcIY+C0tvp4w/hdaM94gRtBHeJndJCeA8EETbn8Npo96YWqjshZZuAPUDoitL15Sb3CWHFJVqyCwyalOyDkOLMz4XF1KI9RP5BqPxqcKQra2pdpM2KNc5rsMRq/zdRXrQg0FRycBzwXyNqTjIEjf7BQ=="
+  },
+  "master_wrapped": "MZQyMiDzoNT+vQFAJX4fnVeOWD+vfkFaZpr1epdS7d9Nz5Wx8QGdOoHIi76oXOUT8Cel7D860yM8+kOWar1cjQXUlIJtXXc1SzQQllRFMZeK45E2DYDlgdRGAZ3WsIWXVbgBi4M1Yzv3762pti5/Pamh4KJO2h4N/JZ2rSbdukNKfv/8luOCx+9yTCJcTV6KXWjvT3m9ZrdbcHVZ83Mo4C3doX7PEEMaoG1Me5pSBfdeOM2KczSLCqYFU3uwzXuLRDIf/AGiWsQmA2fQ9DobRGEMckpHR0tXeKlSHFvlpOhf3HD4RpZMdBEt01VNHJMl3QfURsFzlYwFAR2VaQT6xQ==",
+  "auditor_access_log": [],
+  "signature": "o0C+cxPjdKm/5uc73Ab1RuGKJKCjVUWRXIkxvWdvq5/sgTwO5r2bEio0YlG8+n6l3qXDz/1M/1M/3CMFpdn5xw==",
+  "signed_by": "researcher1"
+}

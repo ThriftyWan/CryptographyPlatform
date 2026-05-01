@@ -1,0 +1,20 @@
+{
+  "file_id": "ee5db97a811fbd39",
+  "filename": "Blood Panel Results \u2014 Cohort A",
+  "uploader": "researcher1",
+  "uploader_role": "researcher",
+  "timestamp": "2026-04-27T07:29:38Z",
+  "allowed_users": [
+    "researcher1"
+  ],
+  "iv": "qgt/99Ggfnmg4FzE2SKq9A==",
+  "ciphertext": "/15QBAUUlH5Fnua3tWrbBSewhA9pxLABgh+uF+kdLPb+bv/mDYwCI88aIJjwIX5o6rGtFJRxxOPFBviUOmSCEG/fi8h7Ba8IsyBFvuPwkjhCnvHHE2Pf8MjARDPAHu34bB2Bq68KX0owttg5LJ8M4Pf6yhqA81vuq6AkspmBtb8OiXmdQ0DGUOHSUurjfs/vsFvQgP73uKVNf9ABb+YNOd6FR/NpZStOcEhjOzslkjlw475sdYOGlIhgjBo8yZuL0Yzq/VWNgPnMSu5L06tOxhXdAyMhAgXWffLHUNC+7ZtmA2HdUnulAPc0cMNBGerXmGQc9TJ4RUPZXcMklEW2Fn6ijugwWzUNtQNUDuaffJYJk0RlMW2wIc/yaeHGBzgzDl/btXfatwX9Oxorq2OxzA==",
+  "hmac": "abeebbf52f7ec5641bb8a5859c024ab012b75c35958e932cf13954b67eca246b",
+  "wrapped_keys": {
+    "researcher1": "YmQQF6yH8SSNQ1t++U1EGvt57o77aL3LDc9IKmRv9Sn9OmsJu2ZQg2bvFc79+NADorjAihwnKq8vWyNjImId8CPTzInzF9qXRz/KQleL7+5+icGWJS5DfzDV/4qZUtj0H1gU1H19dIUmn8tSOXq65MO1mHi9mn1WQW3WaB2k+PSNiJxvij+02b+nWz1bBzya/PjcQMnj5EK8+bifxlB5zA+ZRDDlTkfk1rU9ZoiAnPH0NbZXlwosHh5kYIQMnxdiKaEIX9ZgG4WDwHMyewuXPeVnrQH3JZ6cTU09gEG4mpsv3UYIoy9tFALN5d041HWadMFROlx+25U4b9RRGs4V3A=="
+  },
+  "master_wrapped": "iC+lBjjEphC3iykj9gxCQ1xpRBOMLGhX75IOhlkK3H6ghJ6zEQAA/LbWbGl5VLq21eYgIt68d47WbHHjDlBS7YJ4zdgSIezPNr0ddqoq0RKjBtzo5hlrV7GV0DMaXSivXGZ5sMDE5uu9vWql1tr1UswzOtad8H8Mg/4uyJZcjZU8kcLX2AuWH15Kbsd3uTNdrQQmicNk6e0DO5HdljaW1mEafPE4lLb5dbDXNGvMdSv8qVOQMfim1ApwFsMq6uQWbvW21Kf7tvNMDGxChcqN90Llj+SVcTUUJovXUxr1lfXNEdQMCVqI9SYtKYTVpH2WFpEL6klEwEKEiJYDPEQ1sg==",
+  "auditor_access_log": [],
+  "signature": "/2LDqQzbU5ULL5qluQ7dmzTErRjInfJsUKWvoDsXHXML90Lsl/dCBnbS0BLDCUj71CtBAqYQCIymqNGom19T4w==",
+  "signed_by": "researcher1"
+}

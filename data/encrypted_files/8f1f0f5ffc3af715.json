@@ -1,0 +1,20 @@
+{
+  "file_id": "8f1f0f5ffc3af715",
+  "filename": "EEG Study \u2014 Cohort A",
+  "uploader": "researcher1",
+  "uploader_role": "researcher",
+  "timestamp": "2026-04-27T07:29:38Z",
+  "allowed_users": [
+    "researcher1"
+  ],
+  "iv": "OyMvb089UUGCNYcGG66OPw==",
+  "ciphertext": "u3PR9t2EMC1FWF5Eg4Ce8p0WZBvEdncIIaKAAwfTQ9FEfd0Tg+MuZHN0Aqvtj5C78iMXyfbqcDOchhOWx+yY0ME4g1XR8XzYZCUIGRVXjfpeOz67QUb/T++piw6hNMdgqh0D1fFyouWoYruE+2JeVv6QvgFg7awYK89jzpRhqIZ3YEc4l0iPyvB9P65cIJKGiv/dN6PVMcXsYpindWMQNlbfFslacKa/G7qyCOlOVTk=",
+  "hmac": "bed9512c83af26c0d3f577d57f6f76fa7ba19652eec79718356f7ef2e6096fa2",
+  "wrapped_keys": {
+    "researcher1": "T4sABZVueMW9eCetdSePACNVbeyUstXXCz0qyynyb/73XL5cVXJY8DMFNw2xKzqbBpqXTNQZNTWDt2Dybko4SQhVI9zbLYJgERKp6yGtRFogvewGiOX/HOs2VettEaj/xlkMk2pn5x4D+zJc95fGh/qaog6alMYPTMwXvQ+CzA/mX1qXa7iA8KOQfdNbRhLmTSL1qymU41/TsQgZ+FxTTokuRr1FGpbEr/BYSpAJ8mieuOWxR1PhDwHn1vTjTq90NMeycqZdchbc8IMC0+QV4SWpn8FdyJx6klVzK09cOqKkdKW92/qKqssFcep1+sdQooVFj85qTxnYVetB7asQoQ=="
+  },
+  "master_wrapped": "Glbsl5ZN7LrzGYAi4twVfRCUCYHTlLPCnlNEHPuvq/CxEQPdiKUM4m8GE165ulcLOzsTybmHjRic4sTYV3nRxqI4ujyjzenDhLsoxq19WMV5d/+LqpnRG15Q2ELwZKfYGv/FBxfVv1N+ucDClKPd2uPWol5pmYxinR9DSPNXg4NlgamzE/zf3iOfHNxWcIG3TMCQNBzKoDFOahdp/rt3RrCM+eypqUlx6Df288jm2vBiMzJQZSr1v7rAysDjoNF41UF0mzFsMUib6EiHjokH8XBLNSfi4ufNeoy4D8ozO/RC2NJvoNklEqQqG/OTQ1ywz9FStQ9EPFkdgsjfALuMKQ==",
+  "auditor_access_log": [],
+  "signature": "U9FNhbj+ImMmjChW80ERgI5JrV8TDqToZL6ZGkebL4eRvggF+LA9TZMcLDZJdfZ42nziGGpaMzYsEgbV+sjkPA==",
+  "signed_by": "researcher1"
+}

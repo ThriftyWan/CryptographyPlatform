@@ -1,0 +1,65 @@
+[
+  {
+    "id": 0,
+    "timestamp": "2026-04-27T07:29:53Z",
+    "username": "auditor1",
+    "role": "auditor",
+    "action": "LOGIN",
+    "details": "Authenticated",
+    "mac": "ecac8deed1822d36c50012c289fd0aedf8f73f4f8fb4c5d9f5ccdcd130d98ff8"
+  },
+  {
+    "id": 1,
+    "timestamp": "2026-04-27T07:29:55Z",
+    "username": "auditor1",
+    "role": "auditor",
+    "action": "VIEW_AUDIT_LOG",
+    "details": "entries=1",
+    "mac": "b23509619b3bd7780fea412d1f85b8a5fdc2cccf5fe81e98838f348670bb268b"
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-04-27T07:29:58Z",
+    "username": "auditor1",
+    "role": "auditor",
+    "action": "LOGOUT",
+    "details": "",
+    "mac": "74fb8aa56baf0c4bccc26561c7d10d85c979dd992596d1561ac5da8cc395eaf3"
+  },
+  {
+    "id": 3,
+    "timestamp": "2026-04-27T07:30:07Z",
+    "username": "researcher1",
+    "role": "researcher",
+    "action": "LOGIN",
+    "details": "Authenticated",
+    "mac": "6a52a40b811e4156383f0461fb812bb3546d0b06bf7c0cf60407b94d3b565fab"
+  },
+  {
+    "id": 4,
+    "timestamp": "2026-04-27T07:30:10Z",
+    "username": "researcher1",
+    "role": "researcher",
+    "action": "UPLOAD_AND_SIGN_RESEARCH",
+    "details": "label='Test' id=a9ed240ff6d98ad9 signed=True",
+    "mac": "39c964c77796518e3e96ecddd703e8c4182e75cd709e137dcad4c475f583e574"
+  },
+  {
+    "id": 5,
+    "timestamp": "2026-04-27T07:30:17Z",
+    "username": "researcher1",
+    "role": "researcher",
+    "action": "DECRYPT_RESEARCH",
+    "details": "id=a9ed240ff6d98ad9",
+    "mac": "e292709b56cf894b28ed178b16440cbaaca5744af820f565520b199ea85bf317"
+  },
+  {
+    "id": 6,
+    "timestamp": "2026-04-27T07:30:41Z",
+    "username": "researcher1",
+    "role": "researcher",
+    "action": "LOGOUT",
+    "details": "",
+    "mac": "cfa72a17e7847be2c4964aa8fea8decf6292ca79d94d78e8a5ad68125cd154cf"
+  }
+]

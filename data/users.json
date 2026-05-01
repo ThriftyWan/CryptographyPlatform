@@ -1,0 +1,23 @@
+{
+  "researcher1": {
+    "password_hash": "e2fd03bf3587f6536d72aa184a03fffe35386661ea7470d4294ad168cf8a3887",
+    "password_salt": "58f86b5d064e42db2ee5c67a9ee3ce98",
+    "role": "researcher",
+    "rsa_public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt/dj+eThh9hRvrppwam+\nuQNfJnwqH/Xw17zAJdoXO6iaddu1u0x+YxdfjRh7CUM2F6pGKH+5C7Ip3TMIZkla\nfQOZQQv3lVKDnjqZWCyqwiW14u1obRRm29P9Bv1Goa6QiUp893f6UH3nWHkkRSXD\nquxt07W2gQiYFcSlfFrQImaG59pN/njsBIM8eKsQ2xW8/lAcyKkIAuWGOQJE62yw\nEuXytNcQKWbMOVLIiSKQ0uuewMUUAwi6Zh9QQI6/Mvvp4chPv2Z7liVr1o/7JYKB\ntB8henr+BTUgD9bwDzO49tFl9SyXgIuKpk6exlIPyhQWakxaU71hWxhpadvvKFoG\newIDAQAB\n-----END PUBLIC KEY-----",
+    "created": "2026-04-27T07:29:35Z"
+  },
+  "clinician1": {
+    "password_hash": "4501bb1710b014944fbe2802fe37611b861fd4b53ba503d1c88dee74b4cf197a",
+    "password_salt": "9b55a6ce6a2686572de4f95307f9bbaf",
+    "role": "clinician",
+    "rsa_public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0yr8tktbokPPyuWAHucX\naaCdcr+4IQmavtMi/ME/4mfME5Xf8dYbSHNSV3bpOQRtG2kIODAsbS6G97WWWsAP\nDy5QJlmlwnsl6IsQ7DwGE44s+KtctsPI1YLcosesSiRavIkZnB8lZ05r5TuaQB5Y\n/xeOP+e9gaGELo/8HHexftbrhPXyie84+a3SGJpCGpI1DnItyz2YSGjh2K9XalPh\nuznnRAUtW2Paq9ITPGihuDURs+EsWI1LXj/H6l6oYlewRc68MBI2kRh2uwcLSFdO\nyXDOJi1cNgao+PuvfvEMHC+BDyDQojc5XVPR/80Mb5vwdT66CW3Om87mRDTxzdaC\nCwIDAQAB\n-----END PUBLIC KEY-----",
+    "created": "2026-04-27T07:29:36Z"
+  },
+  "auditor1": {
+    "password_hash": "a78b6044a679539994a9cd784e18e232015537b364a00277ecc10f1f4cf12188",
+    "password_salt": "9012c58450da71a356253243fbe32319",
+    "role": "auditor",
+    "rsa_public_key": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwZ8qY3opax69VRMiBCVt\n6J+WrL+/SqWIixqh5KD9gGq/5fIInTIdrJQbzfWAMYPSGAkyandlmP4Rj5ifDIrB\nENhhH/FEuKca4YRB3XkSCAz/SqFg5GGxJxgGRoOpzqBaEA2pataISbhn5jsCsvfn\neAKom/hdaB7CA+X7tjSSPHYuTNPaP7W0o6JmOJrRQrIi0mZcRtaAc9M24j57YGQ7\noXym6orqIxhU66diLqJ5dY3qlLFKYMStb4xg6vcpc7qAy5sj6g36iPVghkVv36LL\nDGV2aKZtB5F5pqtawvPi7xTfYzrGJHjtOI1lDepdc/jDlyG/uFqxRHklNbsiW8Xo\ntwIDAQAB\n-----END PUBLIC KEY-----",
+    "created": "2026-04-27T07:29:38Z"
+  }
+}

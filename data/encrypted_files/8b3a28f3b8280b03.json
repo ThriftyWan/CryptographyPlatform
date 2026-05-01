@@ -1,0 +1,20 @@
+{
+  "file_id": "8b3a28f3b8280b03",
+  "filename": "Patient Cohort B \u2014 Cardiology Screening",
+  "uploader": "clinician1",
+  "uploader_role": "clinician",
+  "timestamp": "2026-04-27T07:29:38Z",
+  "allowed_users": [
+    "clinician1"
+  ],
+  "iv": "WEAN/T1VgVLp9vXl+/F1ow==",
+  "ciphertext": "KEpBRrPKB3uPGM6X+chmw3ESXiIkgWChNDjx7Pu2iGWtsLHeCOJivlj1wRqAIl37/TfVfYfRUtatGp37dVkLC+mkw2sY2ZydVo1HXVLnkB66YSBBTOvG6RLSZ17TQ+5CbCBgcWNKWjbn5yKBEHLGB3D+yY7Fo847CjjUc3RJoK52XMNUvFrRfetizFI+Eq8/sCnUwfK47J7P0b+5XBpi2y0TsCOhsKUJjcve39oKFGkmhpy3jCKMrp+YRFO0pV2L4l/+8BI64P4dLn0eNSsgqM0ZTIZ5eJcjaTw0Bb3wJWNwykrbYvKDsz9lFUtxcYg89mXaJreREZPfrfKasGebZWBoyQjJyjsG9OTBmLfm8R1BQtlipuQJ/yJJ9hauTyEP",
+  "hmac": "a028c2d1625cd767cb9a0c1729fca240259716956fb953ec4c28e270ecb20344",
+  "wrapped_keys": {
+    "clinician1": "nlVPiV625TkZrEB4sZF6jT78bxzTazAEhMvUu38yaMMlUKaTcMsP9UW3kzAfAJvH/Tm+xiRXtZS6J6B39YH2eLGsrlE8euHOoZoHIWOZctneBXlujsgf+A6FQxzjeaH9iWhqiBofMWP2cvZT8oowgw879dbNb54QxXn4YepRR9Wv34iEkeFhBK57+XcYdVIDF1Vnn5N66EZjZDtEfLpBfFBtpHR0LeSCOC+alSd8e4evi3ffFfGArHLuHfAIylO9sW/a5DWqXhr3gIy3CBmYHDMIgdijmSkPIjZvwWOmTPnF7y93OAvVFDjC9RLqIHgvxvQ52n0GHSHRxg0/vrPTrA=="
+  },
+  "master_wrapped": "TgWWJL9NDwPjI2jEGK1G0Xqwepjb1mtssKFt6zFD6Lyd75Z8qlcXiWDibaZZQwPNrDR5VsUynFSzlGdwV9gKfUybl3GW0eqadjCp4H3cx+INgiwB/rcu9qsueUUlqZ//lHV7y7D3UxF6qRuS1A9zUQuYKoObsirk+5VQ4x6vO6d/tf4IxWK+CVWPpdg0h+Sw2QUhUBZA7AnFt5qBdmKg0hT2DpKpoAZpr3AWiU7xUh/z6qSk+Un4Zh0bb++W1d9M0FXXbCepVp8sBYptW2ZOrA+uqBeeUNPKePpLvoZuwDd8caIv5XQugQeR/TEtcVHt9gU2s8tCo+9kUcZvp1MAcA==",
+  "auditor_access_log": [],
+  "signature": "EmQDWDlglW6v88BupRPrdRT6GquuDl4c6G0Fj0m5xyMXmzx8q9Iudgj5IuGs8ehf2+VVeWnVnbZ/KvCxKktl0w==",
+  "signed_by": "clinician1"
+}

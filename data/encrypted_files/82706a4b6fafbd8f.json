@@ -1,0 +1,20 @@
+{
+  "file_id": "82706a4b6fafbd8f",
+  "filename": "Medication Administration Log \u2014 Week 12",
+  "uploader": "clinician1",
+  "uploader_role": "clinician",
+  "timestamp": "2026-04-27T07:29:39Z",
+  "allowed_users": [
+    "clinician1"
+  ],
+  "iv": "p5jboNUCNwwTlyl7ZehjxA==",
+  "ciphertext": "aNP2Shei9Ec+k50MIGVq4YNRr6vbK2aTSZeE/UslYg0JVyDs1YJhsdLXm/9S/nNKNDLolUAZ6CvZ8WXAzOAnqwEbQ+laNyTGP+FqRLyNFkREJcKTqEL/ld6mVCm4d8yb2W4mUl+paLicBUuh8ywUVUXxdo9y/9mRvuAVYBVisnWDe9/eXCu6RzcBk8pOAYAInxk5QL6X3YsBCA3jugiYbOtfGa8lTm05e1ngBUTT+F+iq98RWGxqcfUSqHEy/IABbYZQwxjihAJ1vaw8L5o0tUYunD9z65ZHgIiVGi24M55yQjQBoDB/9UCLBJFtR0xlzCUUBYChKtvHxKgA2XII35PXmyJlNZcajgm36mck/bA=",
+  "hmac": "cde74eec39c895cb7aec764eba40d46923307cb764435468a019289553ebc7c4",
+  "wrapped_keys": {
+    "clinician1": "PGg61z3woYVffkfn8Ymm7AXONwdyade2NnBou+Hjpjeums1iFKzjhgAonpEXKW+XeCosBAsXt022eX09nMb31mK0Ip7E8en79QLVB1OkgWBSLMkMvFbBI0krroJaTUeLXLp+esKF30I/kw0IOEzRVlS1Tk0yGasrUnvdUBeUxLN+YatIZdCWdn1RCnTwdwdhzLN1sNxzkY79WYkOiBIbotWQ29x63FKhb/fU6kl+wHoSB4+DPNpJ4uxZk4l2jGDgsXZg5wW1Y2nPNU3NpJCCIr3uA9w2Uak8ghgtDHzrYm3s1FzPjNwi5gFwhJvuSvzl6Lje6+CfQBbqZGELE0ae+w=="
+  },
+  "master_wrapped": "VoAyuY6tCe1NxWUIbI3793Oinr6XwFEhSgt3fqR5u/6IexS/wNz23jHrr3cA83uqAv669iQO6/BAzArKt039TCSkR9VJKYu7jw2fsD0qMjyrOVns+W99fHBAN53Zzg0MD8y+nwd8a/xP58hRaGUcwbQuUSFmepQIEuLvFSxTrivaT7BRHMtqIAo2PrQictnCj7n7n1dYzVvj51K4t0/xskwSAy7rD3RKdLuKKUgseQkcC8sOnLPR6Lam1hiWNtlIXxdZzVSIklKyQagKo8mK9z/S2j+SXm3PcHyibJnURuSK5jEYJbXEfp7de6OIPjIB8xVANX0bv0LS1GX+z9bJpQ==",
+  "auditor_access_log": [],
+  "signature": "o+dXZFXJTpaZSyxyvLFCd4Te9YRLV/ivn+8PeeP1dlLQX3z3elRxsGJ+K2jjoRAR/HdxcrFDkS+huvETHGzuLA==",
+  "signed_by": "clinician1"
+}
